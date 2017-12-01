@@ -1,3 +1,5 @@
 En ny fil som jag lägger till
 
 OK, det kan vara värt att lägga till en ny rad med kod
+
+Ny rad i branch 2
